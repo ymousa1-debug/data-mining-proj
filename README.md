@@ -59,9 +59,26 @@ Environment:
 ## Repository Structure
 
 ├── main_notebook.ipynb
+
 ├── requirements.txt
+
 ├── hero-network.csv
+
 ├── README.md
+
 └── checkpoints/
-├── checkpoint_1.ipynb
-└── checkpoint_2.ipynb
+
+├── 1st checkpoint
+
+└── 2nd checkpoint
+
+**note: checkpoints were word files since they did not contain any codes
+
+
+---
+
+## Results Summary
+
+The analysis shows that **Spider-Man, Captain America, and Iron Man** are among the most influential heroes in the network. The graph contains **67 communities**, indicating a highly modular structure with both large central clusters and smaller specialized groups (e.g., alternate universes like Mutant X). Link prediction results suggest that heroes with similar connection patterns are more likely to collaborate in the future.
+
+---
